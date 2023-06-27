@@ -9,5 +9,6 @@
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/containerWithMostWater.js)|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/longestCommonPrefix.js)|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[TS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/removeNthNodeFromEndOfList.ts)|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[TS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/removeDuplicatesFromSortedArray.ts)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/jumpGame.js)|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/bestTimeToBuyAndSellStockII.js)|
