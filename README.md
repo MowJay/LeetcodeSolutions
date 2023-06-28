@@ -10,6 +10,7 @@
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/longestCommonPrefix.js)|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[TS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/removeNthNodeFromEndOfList.ts)|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[TS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/removeDuplicatesFromSortedArray.ts)|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/firstMissingPositive.js)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/jumpGame.js)|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/sqrt.js)|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[TS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/partitionList.ts)|
