@@ -13,6 +13,7 @@
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/firstMissingPositive.js)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/jumpGame.js)|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/sqrt.js)|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[TS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/removeDuplicatesFromSortedList.ts)|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[TS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/partitionList.ts)|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/triangle.js)|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/bestTimeToBuyAndSellStockII.js)|
