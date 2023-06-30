@@ -25,3 +25,4 @@
 |2627|[Debounce](https://leetcode.com/problems/debounce/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/debounce.js)|
 |2629|[Function Composition](https://leetcode.com/problems/function-composition/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/functionComposition.js)|
 |2631|[Group By](https://leetcode.com/problems/group-by/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/groupBy.js)|
+|2634|[Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/filterElementsFromArray.js)|
