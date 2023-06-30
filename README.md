@@ -23,3 +23,4 @@
 |2625|[Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/flattenDeeplyNestedArray.js)|
 |2626|[Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/arrayReduceTransformation.js)|
 |2627|[Debounce](https://leetcode.com/problems/debounce/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/debounce.js)|
+|2629|[Function Composition](https://leetcode.com/problems/function-composition/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/functionComposition.js)|
