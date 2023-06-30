@@ -17,6 +17,7 @@
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[TS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/partitionList.ts)|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/triangle.js)|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/bestTimeToBuyAndSellStockII.js)|
+|2619|[Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/arrayPrototypeLast.js)|
 |2620|[Counter](https://leetcode.com/problems/counter/)|[TS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/counter.ts)|
 |2621|[Sleep](https://leetcode.com/problems/sleep/)|[TS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/sleep.ts)|
 |2625|[Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/flattenDeeplyNestedArray.js)|
