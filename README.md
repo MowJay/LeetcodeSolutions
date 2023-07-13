@@ -9,6 +9,7 @@
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/longestPalindromicSubstring.js)|
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/zigzagConversion.js)|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/reverseInteger.js)|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/palindromeNumber.js)|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/containerWithMostWater.js)|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/longestCommonPrefix.js)|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[TS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/removeNthNodeFromEndOfList.ts)|
