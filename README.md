@@ -35,3 +35,4 @@
 |2634|[Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/filterElementsFromArray.js)|
 |2637|[Promise Time Limit](https://leetcode.com/problems/promise-time-limit/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/promiseTimeLimit.js)|
 |2665|[Counter II](https://leetcode.com/problems/counter-ii/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/counterII.js)|
+|2666|[Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/allowOneFunctionCall.js)|
