@@ -26,7 +26,7 @@
 |2619|[Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/arrayPrototypeLast.js)|
 |2620|[Counter](https://leetcode.com/problems/counter/)|[TS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/counter.ts)|
 |2621|[Sleep](https://leetcode.com/problems/sleep/)|[TS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/sleep.ts)|
-|2621|[Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/cacheWithTimeLimit.js)|
+|2622|[Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/cacheWithTimeLimit.js)|
 |2623|[Memoize](https://leetcode.com/problems/memoize/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/memoize.js)|
 |2625|[Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/flattenDeeplyNestedArray.js)|
 |2626|[Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/arrayReduceTransformation.js)|
