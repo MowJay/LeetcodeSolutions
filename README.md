@@ -25,7 +25,9 @@
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/reverseWordsInAString.js)|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/findMinimumInRotatedSortedArray.js)|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/findPeakElement.js)|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/deleteNodeInALinkedList.js)|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/reverseVowelsOfAString.js)|
+|841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/keysAndRooms.js)|
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/countNegativeNumbersInASortedMatrix.js)|
 |2619|[Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/arrayPrototypeLast.js)|
 |2620|[Counter](https://leetcode.com/problems/counter/)|[TS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/counter.ts)|
