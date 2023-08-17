@@ -30,6 +30,7 @@
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/reverseVowelsOfAString.js)|
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/keysAndRooms.js)|
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/countNegativeNumbersInASortedMatrix.js)|
+|1936|[Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/addMinimumNumberOfRungs.js)|
 |2619|[Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/arrayPrototypeLast.js)|
 |2620|[Counter](https://leetcode.com/problems/counter/)|[TS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/counter.ts)|
 |2621|[Sleep](https://leetcode.com/problems/sleep/)|[TS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/sleep.ts)|
