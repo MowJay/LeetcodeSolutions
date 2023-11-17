@@ -33,6 +33,7 @@
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/keysAndRooms.js)|
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/shortestPathInBinaryMatrix.js)|
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/maximumNumberOfBallons.js)|
+|1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/minimumAbsoluteDifference.js)|
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/countNegativeNumbersInASortedMatrix.js)|
 |1936|[Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/addMinimumNumberOfRungs.js)|
 |2619|[Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)|[JS](https://github.com/MohammadJB/LeetcodeSolutions/blob/master/solutions/arrayPrototypeLast.js)|
